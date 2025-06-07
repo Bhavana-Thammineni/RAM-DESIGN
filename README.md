@@ -84,3 +84,4 @@ module tb;
     #20 $finish;
   end
 endmodule
+![Image](https://github.com/user-attachments/assets/563e23a9-1a50-4853-bfc6-6422407044d9)
